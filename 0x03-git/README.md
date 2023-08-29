@@ -1,0 +1,1 @@
+Thi is the first directory in git alx-zero projct
